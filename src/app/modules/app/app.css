@@ -1,0 +1,24 @@
+:host {
+    /* Palette */
+    --color-primary-interactivity: #0050AC;
+    --color-primary-shade1: #004376;
+    --color-primary-shade2: #E7F3FE;
+    --color-primary-shade3: #6390BC;
+    --color-secondary1: #8CD6D3;
+    --color-secondary2: #EED1CA;
+    --color-accent: #0093D6;
+    --color-support: #008556;
+    --color-error: #F3585C;
+    --color-alert: #F6C95E;
+    --color-copy-black: #1B263A;
+    --color-copy-gray1: #495161;
+    --color-copy-gray2: #767D89;
+    --color-copy-gray3: #E2E2E2;
+    --color-copy-gray4: #F4F4F5;
+    --color-copy-gray5: #FAFBFB;
+    --color-copy-white: #FFFFFF;
+
+    /* Typography */
+    --font-sans: 'Mayo Clinic Sans', sans-serif;
+    --font-serif: 'Mayo Clinic Serif', serif;
+}

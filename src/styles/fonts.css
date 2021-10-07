@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Mayo Clinic Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/MayoClinicSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Mayo Clinic Sans';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../assets/fonts/MayoClinicSans-Bold.ttf');
+}
+

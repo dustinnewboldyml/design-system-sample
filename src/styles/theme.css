@@ -1,0 +1,11 @@
+@import './tokens.css';
+@import './fonts.css';
+
+:root {
+    font-family: 'Mayo Clinic Sans', sans-serif;
+}
+
+*:focus {
+    outline: 2px solid var(--color-primary-interactivity);
+    outline-offset: 0.2rem;
+}

@@ -1,0 +1,10 @@
+.find-doctor {
+    background: var(--color-primary-shade2);
+    padding: 32px;
+    border-radius: 8px;
+}
+
+.description {
+    color: #58616B;
+    margin-bottom: 32px;
+}
